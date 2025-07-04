@@ -1,5 +1,6 @@
-## Hi there 👋
-My name is **Amanuel**😎:. I am a lifelong learner currently pursing a Computer Science degree, with a minor in Math. :happy:
+## Hi✌️
+My name is **Amanuel**😎. I am a lifelong learner currently pursing a Computer Science degree, with a minor in Math. 
+I love acquiring new knowledge and skills, especially through practical application. In this Github account, you'll find some of the project i worked on in my learning journey.
 <!--
 **Amanzgr8/Amanzgr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
